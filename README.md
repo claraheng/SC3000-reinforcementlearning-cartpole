@@ -1,1 +1,1 @@
-# sc3000-reinforcementlearning-cartpole
+# SC3000-reinforcementlearning-cartpole
